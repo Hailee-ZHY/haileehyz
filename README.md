@@ -1,6 +1,6 @@
 # I'm Hailee. 
 
-I have **4+** years of experience in data analysis, data modeling, A/B testing, ETL pipelines, machine learning deployment, and AI applications.
+I have **4+** years of experience in **data analysis, data modeling, A/B testing, ETL pipelines, machine learning deployment, and AI applications**.
 
 I have worked at [Samsung R&D (Canada)](https://www.linkedin.com/company/samsung-electronics/), [Trip Group (China)](https://www.linkedin.com/company/tripcomgroup/posts/?feedView=all), [Value Simplex (China)](https://valuesimplex.com/), and volunteered for the non-profit organization [50/50 Leadership (USA)](https://www.linkedin.com/company/50-50-leadership/posts/?feedView=all).  
 
