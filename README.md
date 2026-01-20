@@ -33,4 +33,4 @@ I graduated from [**Boston University**](https://www.bu.edu/) with a major in **
 
 
 
-Contact : [Email](haileehyz@gmail) • [Linkedin](https://www.linkedin.com/in/haileehyz/)
+Contact : [Email](mailto:haileehyz@gmail) • [Linkedin](https://www.linkedin.com/in/haileehyz/)
