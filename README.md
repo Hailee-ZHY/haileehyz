@@ -9,12 +9,12 @@ Python, SQL, PySpark, PyTorch, TensorFlow, Docker, Kubernetes, AWS (S3, Redshift
 
 1. [Deep-Learning-Based Pavement Marking Detection and Classification](https://github.com/Hailee-ZHY/Pavement-Classification)
         
-    * Pixel-level pavement marking segmentation and classification using Transformer-based deep learning.
+    * Pixel-level pavement marking segmentation and classification using Transformer-based deep learning
 
 2. [Containerized and Serverless Deployment of YOLO for Cloud-Based Inference](https://github.com/Hailee-ZHY/Distributed-Deployment-and-Benchmarking-of-YOLO-Inference)
 
     * Deployed YOLOv8 inference as a containerized REST service on GKE and Cloud Run, and benchmarked latency, throughput, and resource utilization under real workloads
-3. [PointNet-Attn: Attention-Driven 3D Point Cloud Learning Framework](https://github.com/Hailee-ZHY/CloudPoint):
+3. [PointNet-Attn: Attention-Driven 3D Point Cloud Learning Framework](https://github.com/Hailee-ZHY/CloudPoint)
 
     * Enhancing PointNet with Multi-Head Self-Attention and Local Neighborhood Aggregation for 3D Object Classification
 
