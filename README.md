@@ -5,12 +5,6 @@ I have **3+** years of experience in **data analysis, data modeling, A/B testing
 ### Tech Stack  
 Python, SQL, PySpark, PyTorch, TensorFlow, Docker, Kubernetes, AWS (S3, Redshift), GCP, Bash/Linux, CI/CD, REST API
  
-### Education
-
-I graduated from [**Boston University**](https://www.bu.edu/) with a major in **Statistics** and am currently pursuing a Master's in **Computer Science (Visual Computing)** at [**Simon Fraser University**](https://www.sfu.ca/fas.html), expected to graduate in April 2026.  ❤️ I love both Boston and Vancouver!
-
-
-
 ### Most Recent Proejcts
 
 1. [Deep-Learning-Based Pavement Marking Detection and Classification](https://github.com/Hailee-ZHY/Pavement-Classification)
