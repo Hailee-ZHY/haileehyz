@@ -7,9 +7,7 @@ Python, SQL, PySpark, PyTorch, TensorFlow, Docker, Kubernetes, AWS (S3, Redshift
  
 ### Education
 
-I graduated from [**Boston University**](https://www.bu.edu/) with a major in **Statistics** and am currently pursuing a Master's in **Computer Science (Visual Computing)** at [**Simon Fraser University**](https://www.sfu.ca/fas.html), expected to graduate in April 2026.  
-
-❤️ I love both Boston and Vancouver!
+I graduated from [**Boston University**](https://www.bu.edu/) with a major in **Statistics** and am currently pursuing a Master's in **Computer Science (Visual Computing)** at [**Simon Fraser University**](https://www.sfu.ca/fas.html), expected to graduate in April 2026.  ❤️ I love both Boston and Vancouver!
 
 
 
