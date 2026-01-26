@@ -20,4 +20,4 @@ Python, SQL, PySpark, PyTorch, TensorFlow, Docker, Kubernetes, AWS (S3, Redshift
 
 
 
-Contact : [Email](mailto:haileehyz@gmail) • [Linkedin](https://www.linkedin.com/in/haileehyz/)
+Contact : [Email](mailto:haileehyz@gmail)
